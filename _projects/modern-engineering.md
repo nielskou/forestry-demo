@@ -21,3 +21,6 @@ Resident Professors Murphy Tiernan and Kelly Brewer have collaborated over the l
 * Edition One - 2016
 
 * Edition Two - 2017
+
+* Edition Three - 2018
+
