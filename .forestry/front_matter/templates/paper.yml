@@ -1,0 +1,20 @@
+---
+label: paper
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: text
+  label: Source
+  name: source
+- type: textarea
+  name: abstract
+  label: Abstract
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
