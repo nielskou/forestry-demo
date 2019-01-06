@@ -1,5 +1,5 @@
 ---
-title: Tessa Kouwenhoven
+title: Home
 banner_image: "/img/banner.png"
 layout: landing-page
 heading: Tessa Kouwenhoven
@@ -24,7 +24,7 @@ textline: |
 hero_button:
   text: About
   href: "/about"
-show_news: true
+show_news: false
 show_staff: false
 menu:
   navigation:
